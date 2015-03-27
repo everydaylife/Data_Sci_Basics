@@ -86,4 +86,5 @@ PROC SGSCATTER data=mydata.anscombe;
 	compare x=x4 y=y4 / loess reg;
 	Title2 "X4 and Y4 Scatter with Loess and Regression";
 run;
+
 ods graphics off;
