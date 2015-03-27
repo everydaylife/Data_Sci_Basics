@@ -175,6 +175,6 @@ proc print data=inner_join; run; quit;
 
 
 /* Note: SAS Studio cannot use INFILE Statements
-Can only use data on the server, read in with cards, or pushed to server through JMP */
+Can only use data on the server, read in with cards, or pushed to server through JMP  */
 
 
